@@ -1,0 +1,76 @@
+* {
+   margin: 0;
+   padding: 0;
+
+}
+
+body {}
+
+.header {
+   background-color: black;
+   font-size: 13px;
+   height: 50px;
+   color: white;
+   display: flex;
+   align-items: center;
+
+}
+
+.logo {
+   margin-left: 10px;
+}
+
+ol {
+   display: flex;
+
+}
+
+ol li {
+   list-style-type: none;
+   margin-left: 60px;
+}
+
+.search-bar {
+   margin-left: auto;
+   margin-right: 20px;
+}
+
+.search {
+   width: 220px;
+   height: 25px;
+   border-radius: 5px;
+   border: none;
+
+}
+
+.button {
+   border-radius: 5px;
+   background-color: black;
+   color: white;
+   border: 1px solid white;
+   padding: 5px 10px;
+   font-size: 10px;
+}
+
+main {
+   padding: 40px;
+   background: blue;
+   height: 305px;
+}
+
+footer {
+   background-color: black;
+   color: white;
+   height: 30px;
+   display: flex;
+   align-items: center;
+
+   font-size: 14px;
+
+}
+
+footer,
+p {
+   padding-right: 40px;
+   margin-left: auto;
+}
