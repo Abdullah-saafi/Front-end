@@ -2,21 +2,8 @@ abdullah-saafi@abdullah-saafi-Latitude-E5450:~/git-File/Front-end$ touch by-self
 abdullah-saafi@abdullah-saafi-Latitude-E5450:~/git-File/Front-end$ nano by-self-test.html 
 abdullah-saafi@abdullah-saafi-Latitude-E5450:~/git-File/Front-end$ ls
 by-self-test.html  index.html  logo.png  README.md  style.css  Template.jpg  uploading-test.html
-abdullah-saafi@abdullah-saafi-Latitude-E5450:~/git-File/Front-end$ git add by-self-test.html 
+abdullah-saafi@abdullah-saafi-Latitude-E5450:~/git-File/Front-end$ git add by-self-test.html (or type . for all files)
 abdullah-saafi@abdullah-saafi-Latitude-E5450:~/git-File/Front-end$ git commit -m "This is test by self "
-[main 5705f2f] This is test by self
- 1 file changed, 2 insertions(+)
- create mode 100644 by-self-test.html
-abdullah-saafi@abdullah-saafi-Latitude-E5450:~/git-File/Front-end$ git push
-Enumerating objects: 4, done.
-Counting objects: 100% (4/4), done.
-Delta compression using up to 4 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 315 bytes | 315.00 KiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
-remote: Resolving deltas: 100% (1/1), completed with 1 local object.
-To https://github.com/Abdullah-saafi/Front-end.git
-   0026c2b..5705f2f  main -> main
 abdullah-saafi@abdullah-saafi-Latitude-E5450:~/git-File/Front-end$ git push origin main
 Everything up-to-date
-abdullah-saafi@abdullah-saafi-Latitude-E5450:~/git-File/Front-end$ 
+
